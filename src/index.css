@@ -5,9 +5,19 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(243, 242, 241);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.dropzone {
+  background-color: white;
+  height: 2em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-left: 5em;
+  margin-right: 5em;
 }
