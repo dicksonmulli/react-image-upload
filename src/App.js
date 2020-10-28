@@ -81,6 +81,7 @@ function Dropzone({userProfileId}) {
     </div>
   )
 }
+
 function App() {
   return (
     <div className="App">
